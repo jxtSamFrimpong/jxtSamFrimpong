@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jxtSamFrimpong
-- 👀 I’m interested in Mobile Development, API's and Artificial Intelligence
+- 👀 I’m develop for Infrastructure, CI/CD, Mobile, API's and ML
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on Javascript and python projects
 - 📫 You can reach out to me on twitter @jxtSamFrimpong
